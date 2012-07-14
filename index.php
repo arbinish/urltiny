@@ -39,7 +39,7 @@
 		<input type="text" name="url" />
 		<a href='#'>Shorten</a>
 	</div>
-	<div id="footer"><a href="mailto:brathnapalan@zynga.com">Feedback</a></div>
+	<div id="footer"><a href="mailto:arbinish@gmail.com">Feedback</a></div>
     <script type="text/javascript" src="ztiny.js"></script>
 </body>
 </html>
