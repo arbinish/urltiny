@@ -2,5 +2,6 @@ To get this working, make sure
 
 1. Your web server has rewrite engine turned on.
 2. AllowOverride set to All, .htaccess should be honoured.
+3. Since the sqlite db will be updated by web user, make sure the directory and the sqlite file is writeable by web user
  
 
