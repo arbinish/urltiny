@@ -1,0 +1,6 @@
+To get this working, make sure 
+
+1. Your web server has rewrite engine turned on.
+2. AllowOverride set to All, .htaccess should be honoured.
+ 
+
